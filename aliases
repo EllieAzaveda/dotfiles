@@ -14,7 +14,6 @@ alias path='echo $PATH | tr -s ":" "\n"'
 
 # Nav
 alias work='cd ~/repos/govly;'
-alias osu='cd ~/Library/Mobile\ Documents/com~apple~CloudDocs/osu/cs261;'
 alias dotfiles='cd ~/dotfiles;'
 
 # Git
@@ -28,5 +27,5 @@ alias gita='git add'
 alias c='code'
 alias a='code'
 alias atom='code'
-alias github='open https://github.com/weilandia'
+alias github='open https://github.com/ellieazaveda'
 alias chrome='open -a "Google Chrome"'
